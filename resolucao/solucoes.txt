@@ -1,0 +1,56 @@
+>> Questão 1:
+Há 20216 livros no dataset
+
+>> Questão 2:
+Há 15341 livros com apenas 1 autor
+
+>> Questão 3:
+Top 5 autores com maiores quantidades de livros:
+1° autor: "Weezag" com 258 livros
+2° autor: "Rand McNally" com 212 livros
+3° autor: "William Shakespeare" com 117 livros
+4° autor: "Matthew Preston" com 83 livros
+5° autor: "Kevin Lee" com 83 livros
+
+>> Questão 5:
+Top 5 categorias com maiores quantidades de livros:
+1° categoria: "Television" com 4450 livros
+2° categoria: "Teaching Skills & Techniques" com 4122 livros
+3° categoria: "World Atlases / World Maps" com 3792 livros
+4° categoria: "Usage & Grammar Guides" com 1862 livros
+5° categoria: "Theatre Studies" com 1854 livros
+
+>> Questão 6:
+Formato mais utilizado: "Paperback" com 13497 utilizações
+
+>> Questão 7:
+Livros mais bem posicionados relativos a bestseller:
+Livro: "We" na posição 2038.0
+Livro: "Mushrooms" na posição 5718.0
+Livro: "Enlightenment Now : The Case for Reason, Science, Humanism, and Progress" na posição 11401.0
+Livro: "Affective Dimensions in Chemistry Education" na posição 12512.0
+Livro: "The Science Delusion : Freeing the Spirit of Enquiry (NEW EDITION)" na posição 14602.0
+Livro: "The Age of Surveillance Capitalism : The Fight for a Human Future at the New Frontier of Power: Barack Obama's Books of 2019" na posição 14656.0
+Livro: "Quirkology : The Curious Science Of Everyday Lives" na posição 14804.0
+Livro: "Quiet : The power of introverts in a world that can't stop talking" na posição 14986.0
+Livro: "The Brain's Way of Healing : Stories of Remarkable Recoveries and Discoveries" na posição 15844.0
+Livro: "Enlightenment Now" na posição 16270.0
+
+>> Questão 8:
+Livros mais bem posicionados relativos à média de nota:
+Livro: "The Oxford Handbook of Early Christian Archaeology" com nota 5.0
+Livro: "Edward Albee : A Research and Production Sourcebook" com nota 5.0
+Livro: "Asia Classic, Tubed : Wall Maps Continents" com nota 5.0
+Livro: "Hauntingly Familiar : A Paranormal Thriller" com nota 5.0
+Livro: "The Other Judaisms of Late Antiquity : Second Edition" com nota 5.0
+Livro: "Freaky Florida : The Wonderhouse, the Devil's Tree, the Shaman of Philippe Park, and More" com nota 5.0
+Livro: "Families, Rabbis, and Education : Traditional Jewish Society in Nineteenth-century Eastern Europe" com nota 5.0
+Livro: "Total Transformation : Seven Sacred Steps to Freedom" com nota 5.0
+Livro: "Strategies for the Tech-Savvy Classroom" com nota 5.0
+Livro: "Spirals of Love : A Journey Into the Abyss of the Heartspace" com nota 5.0
+
+>> Questão 9:
+8182 livros possuem nota maior que 3,5
+
+>> Questão 10:
+1178 livros foram publicados após "01-01-2020"
